@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/main.css",
+    "main.js": "/main.js",
+    "main.js.map": "/main.js.map",
+    "index.html": "/index.html",
+    "main.css.map": "/main.css.map",
+    "main.js.LICENSE.txt": "/main.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "main.css",
+    "main.js"
+  ]
+}

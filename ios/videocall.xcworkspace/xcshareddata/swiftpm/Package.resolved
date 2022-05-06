@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "sendbird-ios-framework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/sendbird/SendBird-iOS-framework",
+      "state" : {
+        "branch" : "master",
+        "revision" : "8208ede408f0064ab6d79bc0b3e1c4365c8094c8"
+      }
+    }
+  ],
+  "version" : 2
+}
